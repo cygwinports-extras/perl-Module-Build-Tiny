@@ -2,7 +2,7 @@ CPAN_AUTHOR=leont
 inherit perl
 
 NAME="perl-Module-Build-Tiny"
-VERSION=0.028
+VERSION=0.039
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="A tiny replacement for Perl's Module::Build"
@@ -11,3 +11,5 @@ Makefile.PL file to drive distribution configuration, build, test and
 installation. Traditionally, Build.PL uses Module::Build as the underlying
 build system. This module provides a simple, lightweight, drop-in
 replacement."
+
+ARCH=noarch
