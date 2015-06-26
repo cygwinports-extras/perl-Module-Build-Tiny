@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-Module-Build-Tiny"
 VERSION=0.039
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="A tiny replacement for Perl's Module::Build"
 DESCRIPTION="Many Perl distributions use a Build.PL file instead of a
